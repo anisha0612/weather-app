@@ -1,7 +1,7 @@
 # WEATHER APP
 
 This is React.js Web app using "open weather map" API and Material UI for React.
-This app displays current temperature, current climate conditions, minimum temp , max temperature, wind speed for the entered destination.
+This app displays the current temperature, current climate conditions, minimum temp, max temperature, wind speed for the entered destination.
 
 ![](weather.gif)
 
