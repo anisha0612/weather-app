@@ -7,7 +7,7 @@ This app displays current temperature, current climate conditions, minimum temp 
 
 Before running the project run :
 
-### npm install
+### `npm install`
 
 In the project directory, you can run:
 
